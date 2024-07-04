@@ -1,4 +1,4 @@
-<em>Последно подновено: 13 Октомври 2021</em>
+<em>Последно подновено: 04 Юни 2024</em>
 <div align="center">
 <p>РУСЕНСКИ УНИВЕРСИТЕТ &ldquo;АНГЕЛ КЪНЧЕВ&rdquo;</p>
 <p>Факултет: Електротехника, електроника и автоматика</p>
@@ -132,5 +132,4 @@
 <p>Въпрос: Какво правим когато връзката започне да се смущава?</p>
 <p>Отговор: Някои от администраторите ще направи частен livestream и ще изпрати линк към отговарящият за него канал. Част от потребителите е възможно да се преместят там и така връзката ще се стабилизира.</p>
 
-Оригиналната версия в <a href="https://docs.google.com/document/d/1J8X7GlQBM6ZZeDDttcARPB7P3P8HpMBw6Fuzmjo9DnI/edit
-">Google Drive.</a>
+Оригиналната версия в <a href="https://github.com/MrGKanev/Upatvane-za-upotreba-na-Discord/blob/master/Uni-Ruse-Discord-Channel.odt">Google Drive.</a>
